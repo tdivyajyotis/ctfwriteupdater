@@ -10,7 +10,10 @@
 
 ## CHANGELOG
 
-26/03/2022 - Startup diagnostic code and conditional run by the means of commandapis hosted by github pages implemented
+26/03/2022 - Startup diagnostic code and conditional run by the means of commandapis hosted by github pages implemented 
+
+(see CREDITS/CONTRIBUTORS N1)
+
 30/03/2022 - Implemented UserAgent strings for final implementation of CTFTime api
 
 ## TODO
@@ -30,3 +33,7 @@ Support may be provided for other users of the script, but not guaranteed
 
 This is licensed under MIT license but suggestions are accepted for changing the license
 Code improvements are also welcome
+
+### CONTRIBUTORS
+
+@krishyadav007 from @team-Dd05 - Troubleshooting my python code
