@@ -6,7 +6,7 @@
 
 ### ctftime-api-testing.py is used to implement the ctftime fetch code; not fully implemented
 
-### ctfwriteupdater.ipynb used for colab runtime; dperecated as of now; may be updated in the future
+### ctfwriteupdater.ipynb used for colab runtime; deprecated as of now; may be updated in the future
 
 ## CHANGELOG
 
