@@ -11,7 +11,6 @@
 ## CHANGELOG
 
 26/03/2022 - Startup diagnostic code and conditional run by the means of commandapis hosted by github pages implemented
-             additional contributor: @krishyadav007 from team-dd05
 30/03/2022 - Implemented UserAgent strings for final implementation of CTFTime api
 
 ## TODO
