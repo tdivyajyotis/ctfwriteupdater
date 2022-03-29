@@ -10,9 +10,7 @@
 
 ## CHANGELOG
 
-26/03/2022 - Startup diagnostic code and conditional run by the means of commandapis hosted by github pages implemented 
-
-(see CREDITS/CONTRIBUTORS N1)
+26/03/2022 - Startup diagnostic code and conditional run by the means of commandapis hosted by github pages implemented
 
 30/03/2022 - Implemented UserAgent strings for final implementation of CTFTime api
 
