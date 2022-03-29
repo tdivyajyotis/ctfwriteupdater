@@ -25,11 +25,13 @@
 ## CREDITS AND LICENSING
 
 This is being produced with the support of Team-Dd05 on Github
+
 This is intended to serve as the writeup updater for the Team-Dd05 Writeup Farm
 
 Support may be provided for other users of the script, but not guaranteed
 
 This is licensed under MIT license but suggestions are accepted for changing the license
+
 Code improvements are also welcome
 
 ### CONTRIBUTORS
