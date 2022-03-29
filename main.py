@@ -18,6 +18,7 @@ import sys
 if run == True:
   pass
   print("CoLab is $#!T!")
+  #colab didn't like my code here and got stuck so yeah it is shit ig! :lol:
 else:
   pass
   sys.exit('''GET NEW VERSION OF SCRIPT AT https://tdivyajyotis.github.io/ctfwriteupdater !
